@@ -1,82 +1,42 @@
 <div align="center">
 
-# <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" alt="Google 2000" width="350" />
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/windows-computer.gif" width="180"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9pZ3p6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxcaOshbmw/giphy.gif" width="100%" height="20px">
+# 🖥️ BEM-VINDO AO MEU PERFIL
 
-### 💾 <font color="red">BEM-VINDO AO TERMINAL DE WENDERSON DIAS</font> 💾
+### _"Powered by Windows 98 Technology"_  
 
-<table border="0" cellpadding="10" bgcolor="#000000">
-  <tr>
-    <td>
-      <font color="#00FF00" face="Courier New">
-        > SYSTEM: LOW-LEVEL DEVELOPER FOUND... <br>
-        > EXPERTISE: C# / C++ / SYSTEMS <br>
-        > STATUS: DEVELOPING GENESIS WINUX SHELL... <br>
-        > LOCATION: BRAZIL [BR]
-      </font>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV5N2k9rXy/giphy.gif" width="120" />
+<img src="https://media.tenor.com/icWSJoKsgMMAAAAC/under-construction.gif"/>
 
 ---
 
-### 📂 <font color="blue">MEUS DIRETÓRIOS (PROJECTS)</font>
+<img src="https://media.tenor.com/8ZK_S-4D0xAAAAAC/computer-old.gif" width="250"/>
+
+### 👾 Sobre mim
+
+💿 Programador sobrevivente da era do MSN  
+📟 Desenvolvendo coisas duvidosas desde cedo  
+🕹️ Fã de tecnologia retro e interfaces antigas  
+☕ Movido a café e bugs misteriosos  
+
+---
+
+## 📂 Tecnologias
 
 <p>
-  <img src="https://web.archive.org/web/20090830064149/http://geocities.com/Hollywood/Hills/2726/computer.gif" width="30"> 
-  <b>[Genesis Winux Shell]</b> - <i>The future of CLI</i>
-</p>
-<p>
-  <img src="https://web.archive.org/web/20090830064149/http://geocities.com/Hollywood/Hills/2726/computer.gif" width="30"> 
-  <b>[Aether Network]</b> - <i>Cloud & Security</i>
+  <img src="https://img.shields.io/badge/HTML-ff6600?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-0066ff?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_98-gray?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🛠️ <font color="green">FERRAMENTAS & LINGUAGENS</font>
+## 🌐 Internet Explorer Zone
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9pZ3p6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp8as98D105bYqDPCZ/giphy.gif" width="50" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="50" />
-</p>
+<img src="https://media.tenor.com/Lm6b7H6XqTAAAAAC/internet-explorer.gif" width="120"/>
 
----
-
-### 📊 <font color="purple">ESTATÍSTICAS RETRÔ</font>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=radical&hide_border=false" />
-
-<br>
-
-<img src="https://web.archive.org/web/20090804113154/http://geocities.com/Heartland/Acres/1820/main/construction.gif" width="150" />
-<br>
-<font size="2"><b>ESTE SITE ESTÁ EM CONSTRUÇÃO PERMANENTE!</b></font>
-
----
-
-### 📟 <font color="orange">CONTATO / VISITANTES</font>
-
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxcaOshbmw/giphy.gif" width="30" />
-  <b>Email:</b> <a href="mailto:seuemail@aqui.com">Mande um e-mail</a>
-</p>
-
-<img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" />
-
-<br>
-
-<img src="https://web.archive.org/web/20091027005003/http://geocities.com/Athens/Aegean/9257/netscape.gif" width="100" />
-<img src="https://web.archive.org/web/20091027005003/http://geocities.com/Athens/Aegean/9257/ie.gif" width="100" />
-
-<br>
-<font size="1">Optimized for 800x600 resolution | © 2000 Google Search Console</font>
-
-</div>
+```bash
+> loading profile...
+> connecting to github servers...
+> welcome user!
