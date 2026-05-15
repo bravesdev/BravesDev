@@ -1,45 +1,26 @@
-<h1 align="center">Hey 👋 What's Up? I'm Wenderson Dias</h1>
+### Hello there 👋
 
-###
+#### A Low-Level Developer by day ☼ and a Hardware Modder by night ☾
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,asm" height="60" alt="low level languages" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet,linux,windows" height="60" alt="systems" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino,bash,mysql,docker,azure" height="60" alt="tools" />
-</div>
+Developing [Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell);<br>
+Managing [Aether Network](https://github.com/zWendersonBR) Infrastructure;<br>
 
-###
+- ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.asm`,  `.sh`, `.bin`, `.hex`, `.bin`, `.dll`,
+- 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
+- 🛠️ Specialized: **BIOS Modding**, **Hardware Mod**, **Reverse Engineering**, **Kernel Dev**
+- 💬 `ping` me about **low-level**, **multi-platform dev**, **hacking**, **networking**, **modding**
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=X/Twitter&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zwendersonbr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4" height="150" />
+  <img src="https://streak-stats.demolab.com?user=zwendersonbr&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
 </div>
 
-###
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <strong>🔧 HARDWARE_&_LOW-LEVEL_OPS:</strong><br />
-  • BIOS Modding & Firmware Customization<br />
-  • Hardware Modding & Prototyping (Arduino/Embedded)<br />
-  • Multi-platform Development (C# / C++)<br />
-  • Systems Hacking & Reverse Engineering
+<div align="center">
+  <a href="https://twitter.com/wendersondiaszx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.gg/zWendersonBR"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="mailto:welabsme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
