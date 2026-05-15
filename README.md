@@ -1,85 +1,84 @@
 <div align="center">
 
-<h1 style="color: #00FF41; font-family: monospace; letter-spacing: 6px; margin: 20px 0 8px 0;">
-  WENDERSON
-</h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9pZ3p6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxcaOshbmw/giphy.gif" width="100%"/>
 
-<p style="color: #00CC33; font-family: monospace; font-size: 20px; letter-spacing: 3px; margin: 0;">
-  CODENAME • GHOST-01
-</p>
+# <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" width="300" />
 
-<p style="color: #006600; font-family: monospace; font-size: 15px; margin-top: 8px;">
-  SPECIAL OPERATIONS | LOW-LEVEL SYSTEMS COMMAND
-</p>
+<br>
 
-<hr style="border: 1px solid #003300; width: 60%; margin: 40px auto;">
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/windows-computer.gif" width="120"/>
+<code><font face="Consolas" size="6" color="#00FF00"><b>WENDERSON_DIAS.SYS</b></font></code>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/windows-computer.gif" width="120"/>
 
+<br>
+
+<code><font face="Consolas" color="#FF00FF" size="4">
+<b>> LOW-LEVEL SOFTWARE DEVELOPER // NETWORK TECHNICIAN</b><br>
+<b>> CURRENTLY OVERCLOCKING: GENESIS WINUX SHELL</b>
+</font></code>
+
+<br><br>
+
+<code><font face="Consolas" size="5" color="#FFFF00"><b>[[ THE_TECH_VAULT ]]</b></font></code>
+
+<br><br>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,dotnet,linux,docker,mssql,azure,arduino" height="60" />
 </div>
 
-<h2 style="color: #00FF41; font-family: monospace; border-left: 4px solid #00FF41; padding-left: 16px;">
-  SITUATION REPORT
-</h2>
+<br>
 
-<p style="color: #CCCCCC; font-family: monospace; line-height: 1.7;">
-  Desenvolvedor especializado em engenharia de sistemas de baixo nível e segurança crítica. 
-  Atuo na criação de soluções robustas que operam desde o hardware até arquiteturas completas de software, com ênfase em performance e proteção avançada.
-</p>
+<code><font face="Consolas" color="#00FF00">
+<b>HARDWARE_OPS:</b> HUAWEI S5730 // TP-LINK // CONSOLE_ACCESS_GRANTED
+</font></code>
 
-<h2 style="color: #00FF41; font-family: monospace; border-left: 4px solid #00FF41; padding-left: 16px;">
-  ARSENAL TÉCNICO
-</h2>
+<br><br>
 
-<table style="width: 100%; border-collapse: collapse; color: #CCCCCC; font-family: monospace; margin: 20px 0;">
-  <tr style="border-bottom: 1px solid #003300;">
-    <td style="padding: 14px 0; color: #00CC33; width: 240px;"><strong>PRIMARY</strong></td>
-    <td style="padding: 14px 0;">C • C++ • Assembly (x86 / x64)</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #003300;">
-    <td style="padding: 14px 0; color: #00CC33;"><strong>DATABASE</strong></td>
-    <td style="padding: 14px 0;">MySQL • SQL Avançado (Otimização e Hardening)</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #003300;">
-    <td style="padding: 14px 0; color: #00CC33;"><strong>INFRASTRUCTURE</strong></td>
-    <td style="padding: 14px 0;">Ubuntu Server • Debian (Hardened Environments)</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #003300;">
-    <td style="padding: 14px 0; color: #00CC33;"><strong>HARDWARE</strong></td>
-    <td style="padding: 14px 0;">BIOS Modding • Reverse Engineering • Systems Optimization</td>
-  </tr>
-</table>
+<code><font face="Consolas" size="5" color="#00CCFF"><b>[[ SYSTEM_METRICS ]]</b></font></code>
 
-<h2 style="color: #00FF41; font-family: monospace; border-left: 4px solid #00FF41; padding-left: 16px;">
-  CAPACIDADES OPERACIONAIS
-</h2>
-
-<ul style="color: #CCCCCC; font-family: monospace; line-height: 2.0; padding-left: 20px;">
-  <li>Desenvolvimento de Sistemas Operacionais customizados (do bootloader ao kernel)</li>
-  <li>Arquitetura de sistemas corporativos com segurança de alto padrão</li>
-  <li>Otimização extrema de bancos de dados e infraestrutura</li>
-  <li>Hardening completo de servidores e estações de trabalho</li>
-  <li>Modificações avançadas de BIOS e engenharia reversa de hardware</li>
-</ul>
-
-<h2 style="color: #00FF41; font-family: monospace; border-left: 4px solid #00FF41; padding-left: 16px;">
-  OPERAÇÕES ATIVAS
-</h2>
-
-<div style="background-color: #001a00; border-left: 4px solid #00FF41; padding: 24px; margin: 20px 0; color: #CCCCCC; font-family: monospace;">
-  <strong>SHADOWKERNEL</strong> — Kernel e Sistema Operacional customizado<br><br>
-  <strong>FORTRESS</strong> — Plataformas corporativas com segurança avançada<br><br>
-  <strong>IRONHARD</strong> — Modificações de BIOS e hardware de alto desempenho<br><br>
-  <strong>PHALANX</strong> — Arquiteturas MySQL resilientes e otimizadas
-</div>
-
-<hr style="border: 1px solid #003300; margin: 50px 0 30px 0;">
+<br><br>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00FF41&color=003300)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=003300)](https://linkedin.com/in/SEU_USUARIO)
-
+  <img src="https://streak-stats.demolab.com?user=zWendersonBR&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=tokyonight&count_private=true" height="150" />
 </div>
 
-<div align="center" style="margin-top: 50px; color: #004d00; font-family: monospace; font-size: 14px;">
-  READY FOR DEPLOYMENT • SECURE BY DESIGN
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg" width="80%">
+</picture>
+
+<br><br>
+
+<code><font face="Consolas" size="5" color="#FFCC00"><b>[[ CONNECT_OR_DISCONNECT ]]</b></font></code>
+
+<br><br>
+
+<div>
+  <a href="https://twitter.com/wendersondiaszx" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="https://instagram.com/wendersondiaszx" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="https://discord.gg/zWendersonBR" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" /></a>
+</div>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhvbmN6YjV6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/Lp8as98D105bYqDPCZ/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV5N2k9rXy/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7iM8FMEU24/giphy.gif" width="100" />
+
+<br><br>
+
+<code><font face="Consolas" size="2">
+<b>VISITORS:</b> <img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" /><br>
+BEST VIEWED IN NETSCAPE NAVIGATOR 4.0 // 800x600 RESOLUTION
+</font></code>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxcaOshbmw/giphy.gif" width="100%"/>
+
 </div>
