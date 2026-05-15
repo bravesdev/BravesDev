@@ -4,7 +4,7 @@
 
 Developing [Ghost Winux Shell](https://github.com/zWendersonBR/ghost-winux-shell);<br>
 
-- ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.asm`,  `.sh`, `.bin`, `.hex`, `.bin`, `.dll`,
+- ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.asm`,  `.sh`, `.bin`, `.hex`, `.bin`, `.dll`, `.cmake`,
 - 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
 - 🛠️ Specialized: **BIOS Modding**, **Hardware Mod**, **Reverse Engineering**, **Kernel Dev**
 - 💬 `ping` me about **low-level**, **multi-platform dev**, **hacking**, **networking**, **modding**
