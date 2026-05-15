@@ -1,69 +1,86 @@
 <div align="center">
 
-![Frutiger Aero Banner](https://github.com/user-attachments/assets/example-banner.gif) <!-- Substitua por um GIF real -->
+![Frutiger Aero Header](https://media.giphy.com/media/3o7btPCcdH2hK0g0y4/giphy.gif)
 
 # 🌊✨ **Wenderson** ✨🌊
+**Low Level Wizard | Frutiger Aero Edition** 💿🪟
 
-**Bem-vindo ao meu cantinho digital!**  
-*Under Construction since 2026* 🛠️💾
+![Vista Aero](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-![Dancing GIF](https://i.giphy.com/media/v1.Y2J1cG9uZGVkX3N0b3JhZ2UvdXBsb2Fkcy9naWZ5L3N0YWNrL2dpcGh5cy9naWZzL2NvbXB1dGVyL2NvbXB1dGVyLTAyLmdpZg==.gif) <!-- GIFs estilo GeoCities / Aero -->
+**"Eu não programo... eu invoco sistemas do hardware."**
 
 </div>
 
 ---
 
-### 🪟 **Bem-vindo à Era Frutiger Aero!** 🫧🐟
+### 🪟 **Bem-vindo ao meu mundo glossy!** 🫧🐟
 
-<img src="https://media.giphy.com/media/3o7btPCcdH2hK0g0y4/giphy.gif" width="120" align="right">
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="140" align="right">
 
-Olá! Eu sou o **Wenderson**, apaixonado por código, design retrô-futurista e aquela vibe glossy dos anos 2000. Aqui tudo brilha, tem gradiente, transparência e animações que não param! 💿
+Olá! Sou **Wenderson**, desenvolvedor de sistemas low-level com alma dos anos 2000.  
+Aqui você vai encontrar código que conversa diretamente com o hardware, sistemas operacionais feitos do zero e segurança que faria o Windows Vista corar de inveja.
 
-- **💻 Tech Stack:** [Seus principais techs aqui]
-- **🎨 Design Obsession:** Frutiger Aero, Skeuomorphism, Windows Vista vibes
-- **🌐 Filosofia:** "Com tantas cores quanto seu monitor aguentar!"
+### 💻 **Minhas Skills (Modo Aero Ativado)**
+
+![Terminal Glow](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+- **🔧 Linguagens:** C • C++ • Assembly (x86/x64)
+- **🗄️ Bancos de Dados:** MySQL • SQL avançado (otimização pesada)
+- **🐧 Servidores:** Ubuntu Server • Debian (hardening nível expert)
+- **🛠️ Hardware & Low Level:** BIOS modding • Reverse Engineering • Construção e otimização extrema de PCs
+- **🌍 Projetos Especiais:**
+  - Criação de Sistemas Operacionais customizados
+  - Programas corporativos com sistemas de segurança absurdos
+  - Soluções low-level performáticas e seguras
 
 ---
 
-### ✨ **Destaques do Meu Mundo**
+### ✨ **Destaques do Meu Universo Aero**
 
-![Animated Divider](https://i.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+<div align="center">
 
-- **🚀 Projetos Recentes**
-  - [Projeto 1] — *Descrição glossy*
-  - [Projeto 2] — *Com janelas transparentes e botões brilhantes*
+![Construction](https://media.giphy.com/media/l3vR85I4F7z1L6nqM/giphy.gif)
 
-- **🌟 Hobbies**
-  - Colecionar GIFs antigos
-  - Criar wallpapers Aero
-  - Navegar no Internet Archive até 3 da manhã
+**🚀 Projetos em Destaque**
+- **Custom OS Kernel** — Do boot até o desktop com visual Frutiger Aero
+- **Secure Corporate Systems** — Autenticação + criptografia + monitoramento em tempo real
+- **BIOS & Hardware Mods** — Máquinas otimizadas até o último ciclo de clock
+- **Database Engines** — Soluções MySQL ultra-performáticas para ambientes críticos
+
+</div>
+
+---
+
+### 🌈 **Always Under Construction** 🛠️✨
+
+<div align="center">
+
+![Dancing PC](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Globe Spin](https://media.giphy.com/media/3o7aD2t7h9z7gY5z0M/giphy.gif)
+![Matrix Rain Aero](https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif)
+
+</div>
+
+**"A internet era mais bonita quando tinha transparência, reflexos e contadores de visitas"**
+
+---
+
+### 🔗 **Conecte-se comigo**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SEU_USUARIO)
 
 ---
 
 <div align="center">
 
-### 🌀 **Always Under Construction** 🌀
-
-![Construction GIF](https://i.giphy.com/media/l3vR85I4F7z1L6nqM/giphy.gif)
-
-**"A internet era mais divertida quando todo mundo tinha um contador de visitas"**
+<img src="https://media.giphy.com/media/26BRv0Th8uI4mL3bW/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/VbnUQp8z2n4Y/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90">
 
 </div>
 
----
-
-### 🌈 **Conecte-se comigo!**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEUUSUARIO)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SEUUSUARIO)
-
----
-
-<div align="center">
-  <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80">
-  <img src="https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80">
-  <img src="https://i.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80">
-</div>
-
-*Feito com muito glitter, gradientes e nostalgia do Windows Aero* 🫧
+*Feito com muito glitter, Assembly, café e nostalgia do Windows Aero* 🫧💾
