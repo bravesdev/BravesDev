@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="welabs.me.png" alt="Logo" width="400" height="200" />
 </div>
 
 <br>
