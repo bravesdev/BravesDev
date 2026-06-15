@@ -7,7 +7,7 @@
 
 #### A Low-Level Developer by day ☼ and a Hardware Modder by night ☾
 
-Developing [Ghost Winux Shell](https://github.com/zWendersonBR/ghost-winux-shell);<br>
+Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 
 - ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.asm`,  `.sh`, `.bin`, `.hex`, `.bin`, `.dll`, `.cmake`,
 - 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
